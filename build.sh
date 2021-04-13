@@ -1,0 +1,1 @@
+docker build -f Dockerfile -t dnjsfuf1030/python-opencv-fastapi
