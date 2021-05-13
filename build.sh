@@ -1,1 +1,1 @@
-docker build -f Dockerfile -t dnjsfuf1030/python-opencv-fastapi
+docker build -f Dockerfile -t coinrush/python-opencv-fastapi
